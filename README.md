@@ -1,2 +1,5 @@
-# PhysicsProblems
+# Physics Problems
+
 물리1 기출문제 데이터베이스
+
+**이 문제에 대한 저작권은 한국교육과정평가원에 있습니다.**
